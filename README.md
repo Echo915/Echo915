@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Echo915
 - 👀 I’m interested in AI and machine learning 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on solving problems and developing myself 
 - 📫 my email: fortuneklabi018@gmail.com
 
